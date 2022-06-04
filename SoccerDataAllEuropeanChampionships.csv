@@ -1,4 +1,4 @@
-content & source;year,country where ec (European championship) took place,which stage of the tournament,date,country team A,country team B,score A,score B
+content & source,year,country where ec (European championship) took place,which stage of the tournament,date,country team A,country team B,score A,score B
 www.DataMiningSoccer.com;1960;France;qualification knockout;05.04.59;Ireland;Czechoslovakia;2;0
 Football Result Predictions;1960;France;qualification knockout;10.05.59;Czechoslovakia;Ireland;4;0
 www.DataMiningSoccer.com;1960;France;round of 16;28.09.58;Soviet Union;Hungary;3;1
